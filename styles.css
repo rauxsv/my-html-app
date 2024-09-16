@@ -3,3 +3,7 @@ display: flex;
 background-color: aqua;
 color: #b80b0b;
 }
+
+table, th, td {
+    border: 1 px solid black;
+}
